@@ -138,6 +138,18 @@ AR_AP_Analytics_Dashboard/
 
 The project includes:
 
+
+
+👤 Author
+
+Mostafa Hisham Abdelghani Abuhasswa
+
+Accounting & Financial Data Analysis
+
+Skills & Tools:
+
+Excel | Power Query | Power BI | DAX | Python | SQL | Microsoft Access | AI
+
 1. A complete Python/Jupyter Notebook containing the analytical workflow and validation controls.
 2. A validated Excel workbook containing the final analytical outputs and management decision-support results.
 3. Executive-level financial risk and control analysis.
